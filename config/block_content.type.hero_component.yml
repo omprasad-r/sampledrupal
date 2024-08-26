@@ -1,0 +1,8 @@
+uuid: 25723d67-782e-4847-a925-35f8e0a79247
+langcode: en-gb
+status: true
+dependencies: {  }
+id: hero_component
+label: 'Hero Component'
+revision: false
+description: null

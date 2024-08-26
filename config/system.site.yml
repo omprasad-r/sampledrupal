@@ -1,0 +1,15 @@
+_core:
+  default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
+langcode: en-gb
+uuid: 4acdf83a-c49c-4636-a72b-51c02e7c92fe
+name: Figma2Drupal
+mail: omprasad.r@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en-gb
+mail_notification: null
